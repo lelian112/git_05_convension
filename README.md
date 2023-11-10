@@ -82,7 +82,7 @@ ___
 
 1. ls
 
-   > list(목록)
+    list(목록)
 
 2. cd
    change directory (작업 경로 변경)
