@@ -63,9 +63,14 @@
 
 ### 수평선(Horizontal Rule)
 :3개이상써야함
-
 ---
-
+(Hyphens)
 ***
-
+(Astrisks)
 ___
+(underscores)
+
+### 줄바꿈 (line breaks)
+바다<br>
+하늘   <!--띄어쓰기 3번>   
+구름
